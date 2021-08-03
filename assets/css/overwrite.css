@@ -1,0 +1,25 @@
+#banner{
+	background-image: url("images/light-tl.svg"), url("images/light-tr.svg"), url("images/overlay.png"), url("../../images/3660.jpg");
+    background-position: bottom left, bottom right, top left, bottom center !important;
+   
+}
+
+#cta{
+    background-image: url("images/light-tl.svg"), url("images/light-tr.svg"), url("images/overlay.png"), url("../../images/18053057.jpg");
+    background-position: bottom left, bottom right, top left, top center !important;
+}
+
+#logo img{
+    max-height: 5em;
+    margin-left: 3em;
+}
+
+#destacado {
+    background-image: url(../../images/SVG/isla.svg);
+    background-repeat: no-repeat;
+    background-position: center bottom;
+    background-size: contain;
+    min-width: 100%;
+    min-height: 15em;
+    
+}
